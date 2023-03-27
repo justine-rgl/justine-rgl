@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justine</h1>
 <h3 align="center">Student developer at Ada Tech School, Nantes</h3>
 
-- 🔭 I’m currently looking for **a 12-month apprenticeship as a front-end developer**
+- 🔭 I’m currently looking for **a 12-month apprenticeship as a front-end developer starting from June 2023**
 
 - 🌱 I’m currently learning **Javascript, HTML, CSS, React, Figma, PHP, MySQL and more!**
 
