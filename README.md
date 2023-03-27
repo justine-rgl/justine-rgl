@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Justine</h1>
+<h1 align="center">Hi, I'm Justine 👋</h1>
 <h3 align="center">Student developer at Ada Tech School, Nantes</h3>
 
 - 🔭 I’m currently looking for **a 12-month apprenticeship as a front-end developer starting from June 2023**
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **justine.rougeulle@gmail.com**
 
-- ⚡ Fun fact: **I share my apartment with 2 bicycles and a cute cat called Mireille 🐾**
+- ⚡ Fun fact: **I share my apartment with 2 bicycles and a cute cat called Mireille 🐈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
