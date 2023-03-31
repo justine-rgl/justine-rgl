@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **a 12-month apprenticeship as a front-end developer**
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, React, Vue, Figma and more!**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, React, Vue, Figma and more!**
 
 - 📫 How to reach me: **justine.rougeulle@gmail.com**
 
