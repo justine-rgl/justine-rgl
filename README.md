@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Justine</h1>
+<h1 align="center">Hi, I'm Justine 👋</h1>
 <h3 align="center">Student developer at Ada Tech School, Nantes</h3>
 
 - 🔭 I’m currently looking for **a 12-month apprenticeship as a front-end developer**
