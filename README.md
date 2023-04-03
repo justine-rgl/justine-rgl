@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **justine.rougeulle@gmail.com**
 
-- ⚡ Fun fact: **I share my apartment with 2 bicycles and a cute cat called Mireille 🐾**
+- ⚡ Fun fact: **I share my apartment with 2 bicycles and a cute cat called Mireille 🐈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
